@@ -39,7 +39,7 @@ Here's a walkthrough of implemented user stories:
 
 ## License
 
-    Copyright [2020] [Nguyễn Văn Minh]
+    Copyright [2022] [Nguyễn Văn Minh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
