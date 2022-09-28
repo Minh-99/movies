@@ -1,8 +1,8 @@
-# Project - *Movies*
+# Project - _Movies_
 
 **Movies** is a movies app using the [The Movie Database API](https://developers.themoviedb.org/3).
 
-Time spent: **HH** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-> Please record screen to a GIF file and attach link here
+> ![Alt Text](https://drive.google.com/file/d/1huY-P_Nzz26Hy-rClETkMPAGTNCcOMlE/view?usp=sharing)
 
 ## License
 
