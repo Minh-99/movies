@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --surface-a: #ffffff;
+  --surface-b: #fafafa;
+  --surface-c: rgba(0, 0, 0, .04);
+  --surface-d: rgba(0, 0, 0, .12);
+  --surface-e: #ffffff;
+  --surface-f: #ffffff;
+  --surface-0: #ffffff;
+  --surface-50: #FAFAFA;
+  --surface-100: #F5F5F5;
+  --surface-200: #EEEEEE;
+  --surface-300: #E0E0E0;
+  --surface-400: #BDBDBD;
+  --surface-500: #9E9E9E;
+  --surface-600: #757575;
+  --surface-700: #616161;
+  --surface-800: #424242;
+  --surface-900: #212121;
+  --gray-50: #FAFAFA;
+  --gray-100: #F5F5F5;
+  --gray-200: #EEEEEE;
+  --gray-300: #E0E0E0;
+  --gray-400: #BDBDBD;
+  --gray-500: #9E9E9E;
+  --gray-600: #757575;
+  --gray-700: #616161;
+  --gray-800: #424242;
+  --gray-900: #212121;
+}
+
+body[data-theme='dark'] {
+  --surface-a: #1e1e1e;
+  --surface-b: #121212;
+  --surface-c: hsla(0, 0%, 100%, .04);
+  --surface-d: hsla(0, 0%, 100%, .12);
+  --surface-e: #1e1e1e;
+  --surface-f: #262626;
+  --surface-0: #121212;
+  --surface-50: #2a2a2a;
+  --surface-100: #414141;
+  --surface-200: #595959;
+  --surface-300: #717171;
+  --surface-400: #898989;
+  --surface-500: #a0a0a0;
+  --surface-600: #b8b8b8;
+  --surface-700: #d0d0d0;
+  --surface-800: #e7e7e7;
+  --surface-900: #ffffff;
+  --gray-50: #e7e7e7;
+  --gray-100: #d0d0d0;
+  --gray-200: #b8b8b8;
+  --gray-300: #a0a0a0;
+  --gray-400: #898989;
+  --gray-500: #717171;
+  --gray-600: #595959;
+  --gray-700: #414141;
+  --gray-800: #2a2a2a;
+  --gray-900: #121212;
+}

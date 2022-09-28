@@ -1,0 +1,39 @@
+{
+  "login": "Login",
+  "language": "Language",
+  "loginTooltip": "account:1234567890 password:123456",
+  "menu": {
+    "menu": "menu",
+    "logout": "logout",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  },
+  "navigate": {
+    "home": "Home"
+  },
+  "page": {
+    "login": {
+      "msgRegistration": "Don't have an account? Sign Up",
+      "msgForgotPwd": "Forgot password?",
+      "email": "Email",
+      "password": "Password"
+    },
+    "search": {
+      "title": "Search movie title"
+    },
+    "movies": {
+      "grid": "Grid",
+      "list": "List"
+    },
+    "movieDetails": {
+      "overview": "Overview",
+      "voteAverage": "Vote average",
+      "voteCount": "Vote count",
+      "cast": "Cast",
+      "trailers": "Trailers"
+    }
+  },
+  "user": {
+    "name": "minhxx"
+  }
+}

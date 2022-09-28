@@ -1,0 +1,39 @@
+{
+  "login": "Đăng nhập",
+  "language": "Ngôn ngữ",
+  "loginTooltip": "Tài khoản:1234567890 Mật khẩu:123456",
+  "menu": {
+    "menu": "Menu",
+    "logout": "Đăng xuất",
+    "darkMode": "Nền tối",
+    "lightMode": "Nền sáng"
+  },
+  "navigate": {
+    "home": "Trang chủ"
+  },
+  "page": {
+    "login": {
+      "msgRegistration": "Không có tài khoản? Đăng ký",
+      "msgForgotPwd": "Quên mật khẩu ?",
+      "email": "Email",
+      "password": "Mật khẩu"
+    },
+    "search": {
+      "title": "Tìm kiếm tên phim"
+    },
+    "movies": {
+      "grid": "Lưới",
+      "list": "Danh sách"
+    },
+    "movieDetails": {
+      "overview": "Tổng quan",
+      "voteAverage": "Bình chọn",
+      "voteCount": "Tổng số bình chọn",
+      "cast": "Diễn viên",
+      "trailers": "Đoạn giới thiệu"
+    }
+  },
+  "user": {
+    "name": "kakakak"
+  }
+}
