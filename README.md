@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-> ![Alt Text](https://drive.google.com/file/d/1huY-P_Nzz26Hy-rClETkMPAGTNCcOMlE/view?usp=sharing)
+[link demo](https://drive.google.com/file/d/1huY-P_Nzz26Hy-rClETkMPAGTNCcOMlE/view?usp=sharing)
 
 ## License
 
